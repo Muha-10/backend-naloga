@@ -1,0 +1,11 @@
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\bin\Debug\BackendNaloga.exe.config
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\bin\Debug\BackendNaloga.exe
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\bin\Debug\BackendNaloga.pdb
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\obj\Debug\BackendNaloga.csproj.AssemblyReference.cache
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\obj\Debug\BackendNaloga.csproj.SuggestedBindingRedirects.cache
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\obj\Debug\BackendNaloga.csproj.CoreCompileInputs.cache
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\obj\Debug\BackendNaloga.csproj.CopyComplete
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\obj\Debug\BackendNaloga.exe
+E:\GitHub\Repos\backend-naloga\BackendNaloga\BackendNaloga\obj\Debug\BackendNaloga.pdb
